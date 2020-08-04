@@ -1,0 +1,600 @@
+empresa 1
+
+split linha = 0.002 seconds
+consulta duplicados  = 0.005 seconds
+Inserção  = 0.086 seconds
+--------------------------------------
+empresa 2
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.007 seconds
+--------------------------------------
+empresa 3
+
+split linha = 0.001 seconds
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 4
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 5
+
+split linha = 0
+consulta duplicados  = 0.002 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 6
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 7
+
+split linha = 0
+consulta duplicados  = 0.002 seconds
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 8
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 9
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 10
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 11
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.036 seconds
+--------------------------------------
+empresa 12
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 13
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 14
+
+split linha = 0.001 seconds
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 15
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 16
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 17
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.005 seconds
+--------------------------------------
+empresa 18
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 19
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 20
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 21
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 22
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.050 seconds
+--------------------------------------
+empresa 23
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.052 seconds
+--------------------------------------
+empresa 24
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.006 seconds
+--------------------------------------
+empresa 25
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 26
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 27
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 28
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 29
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 30
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 31
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 32
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 33
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.035 seconds
+--------------------------------------
+empresa 34
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 35
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 36
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 37
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 38
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 39
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 40
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 41
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 42
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 43
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 44
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 45
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.036 seconds
+--------------------------------------
+empresa 46
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 47
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 48
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 49
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 50
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 51
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 52
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 53
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 54
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 55
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.005 seconds
+--------------------------------------
+empresa 56
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.048 seconds
+--------------------------------------
+empresa 57
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 58
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 59
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 60
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 61
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 62
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 63
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 64
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 65
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 66
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 67
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.036 seconds
+--------------------------------------
+empresa 68
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 69
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 70
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 71
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 72
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 73
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 74
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 75
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.037 seconds
+--------------------------------------
+empresa 76
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.006 seconds
+--------------------------------------
+empresa 77
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.039 seconds
+--------------------------------------
+empresa 78
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.005 seconds
+--------------------------------------
+empresa 79
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.004 seconds
+--------------------------------------
+empresa 80
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.037 seconds
+--------------------------------------
+empresa 81
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.038 seconds
+--------------------------------------
+empresa 82
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 83
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.005 seconds
+--------------------------------------
+empresa 84
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.005 seconds
+--------------------------------------
+empresa 85
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 86
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 87
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 88
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.035 seconds
+--------------------------------------
+empresa 89
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 90
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 91
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 92
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 93
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 94
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 95
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 96
+
+split linha = 0
+consulta duplicados  = 0
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 97
+
+split linha = 0.001 seconds
+consulta duplicados  = 0
+Inserção  = 0.003 seconds
+--------------------------------------
+empresa 98
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 99
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.002 seconds
+--------------------------------------
+empresa 100
+
+split linha = 0
+consulta duplicados  = 0.001 seconds
+Inserção  = 0.035 seconds
+--------------------------------------

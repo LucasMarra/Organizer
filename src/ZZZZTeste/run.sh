@@ -1,0 +1,1 @@
+groovy -cp .:mysql-connector-java-5.1.46.jar populate_profiling
